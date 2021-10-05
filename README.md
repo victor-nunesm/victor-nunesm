@@ -7,6 +7,7 @@ My name is José Victor Nunes Mandú, I'm a software developer from Brazil, livi
 
 ## 📈 Statistics 📉
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-nunesm&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-nunesm&count_private=true&theme=dark)](https://github.com/victor-nunesm/github-readme-stats)
 
 ## 🔧 Technologies & Tools 🔨
 <img src="https://img.shields.io/badge/OS-Linux-0E315C?style=for-the-badge&logo=linux&logoWidth=15"></img>
@@ -23,7 +24,7 @@ My name is José Victor Nunes Mandú, I'm a software developer from Brazil, livi
 
 <!--
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-nunesm&count_private=true&theme=dark)](https://github.com/victor-nunesm/github-readme-stats)
+
 
 
 <img src="https://img.shields.io/badge/Tools-MySQL-29405C?style=for-the-badge&logo=linux&logoWidth=15"></img>
