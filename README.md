@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my GitHub! 😁
-My name is José Victor Nunes Mandú, I'm a software developer from Brazil, living at Pará and currently working at Alvo System. You can find me on  [![LinkedIn][1]][1.1].
+My name is José Victor Nunes Mandú, I'm a software developer from Brazil, living at Palmas and currently working at GFT Group. You can find me on  [![LinkedIn][1]][1.1].
 
 [1]: https://raw.githubusercontent.com/victor-nunesm/victor-nunesm/main/icons/linkedin.png (LinkedIn icon)
 
